@@ -1,2 +1,1 @@
-# examplecreatrepo
-creatnewrepository
+#huong dan git co ban
